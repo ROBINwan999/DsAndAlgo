@@ -1,3 +1,3 @@
 ## about this project
 
-This project is created for my to practice data structure
+This project is used to practice data structures
