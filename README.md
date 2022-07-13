@@ -1,4 +1,4 @@
-[English version](https://github.com/ROBINwan999/data-structure/blob/main/README_en.md)
+[English version](https://github.com/ROBINwan999/data-structure/tree/main/data-structure-en)
 
 # 项目介绍
 
