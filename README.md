@@ -1,4 +1,4 @@
-[English version](https://github.com/ROBINwan999/data-structure/tree/main/data-structure-en)
+[English version](https://github.com/ROBINwan999/data-structure-and-algorithm/tree/main/en)
 
 # 项目介绍
 
@@ -6,7 +6,5 @@
 
 [数据结构](https://github.com/ROBINwan999/data-structure-and-algorithm/tree/main/data_structure)
 
-[算法](https://github.com/ROBINwan999/data-structure/blob/main/BST.h)
-
-[Vector](https://github.com/ROBINwan999/data-structure/blob/main/Vector.h)
+[算法](https://github.com/ROBINwan999/data-structure-and-algorithm/tree/main/algorithm)
 
