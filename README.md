@@ -1,4 +1,4 @@
-[English version](https://github.com/ROBINwan999/data-structure-and-algorithm/tree/main/en)
+[English version](Docs/README_en.md)
 
 # 项目介绍
 
